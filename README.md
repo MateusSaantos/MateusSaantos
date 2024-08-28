@@ -4,7 +4,9 @@
 
 <img src="https://img.shields.io/static/v1?label=Overview&message=MateusSaantos&color=f8efd4&style=for-the-badge&logo=GitHub" alt="Static GitHub">
 
-<p>Trabalhando na Compass UOL 🤩<br/><br/><br/></p>
+* <p>Trabalhando na Compass UOL 🤩<br/></p>
+* <p>Sistemas de informação pela UFOP <br/></p>
+* <p>Tecnico em desenvolvimento de software pelo CEFET-MG </p>
 
 ___
 
