@@ -1,25 +1,42 @@
-### Olá, eu sou Mateus Santos ☕
-### Sobre Mim
- - Cursando Sistemas de Informação pela UFOP | Implementação & Onboarding ERP ConnectPlug | Técnico em Informática pelo CEFET-MG | Java | HTML | CSS | JavaScript | SQL |
- - Buscando me tornar um profissional cada vez melhor na área de tecnologia, apaixonado e atuando na área desde meu primeiro estágio onde descobri qual carreira queria seguir. Graças a meu tempo atuando como Técnico de suporte me considero bom em resolver problemas e tenho facilidade no quesito de organização e rotinas empresarias. 
+<img align='right' src="https://github-readme-stats.vercel.app/api?username=MateusSaantos&show_icons=true&title_color=783c00&text_color=af552e&icon_color=783c00&bg_color=f8efd4&cache_seconds=2300" alt="ilustração do status do github">
 
-Atualmente estou atuando no setor de treinamento a clientes nas diversas utilidades de software para automação de pequenas e medias empresas.
+### Olá, meu nome é Mateus Santos!
 
-### Ferramentas e Tecnologias
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" height="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" height="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
+<img src="https://img.shields.io/static/v1?label=Overview&message=MateusSaantos&color=f8efd4&style=for-the-badge&logo=GitHub" alt="Static GitHub">
+
+<p>Trabalhando na Compass UOL 🤩<br/><br/><br/></p>
+
+___
+
+### Minhas Skills
+
+* **Aplicações**<br>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original-wordmark.svg" width="40" height="40"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" width="40" height="40"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" width="40" height="40"/>&nbsp; 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" width="40" height="40"/>&nbsp; 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" width="40" height="40"/>&nbsp; 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/>&nbsp;
+
+* **Base de dados**<br>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" width="40" height="40"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original-wordmark.svg" width="40" height="40"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original-wordmark.svg" width="40" height="40"/>&nbsp;
+
+* **DevOps**<br>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original-wordmark.svg" width="40" height="40"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original-wordmark.svg" width="40" height="40"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original-wordmark.svg" width="40" height="40"/>&nbsp;
+
+* **Ferramentas de desenvolvimento**<br>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-original.svg" width="40" height="40"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualstudio/visualstudio-original.svg" width="40" height="40"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/eclipse/eclipse-original.svg" width="40" height="40"/>&nbsp;
 
 ### Contatos
 
-<div>
-  <a href="https://instagram.com/_matteussantoss" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:mateus_saantos@outlook.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/mateus-santos-16523a1a3/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
-</div>
+<a href="https://instagram.com/_matteussantoss" target="_blank"><img src="https://img.shields.io/badge/-Instagram-f8efd4?style=for-the-badge&logo=instagram&logoColor=black" target="_blank"></a>
+<a href="mailto:mateus_saantos@outlook.com"><img src="https://img.shields.io/badge/Gmail-f8efd4?style=for-the-badge&logo=gmail&logoColor=black" target="_blank"></a>
+<a href="https://www.linkedin.com/in/mateus-santos-16523a1a3/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-f8efd4?style=for-the-badge&logo=linkedin&logoColor=black" target="_blank"></a>
 
-### Resultados
-
-<div>
-<a href="https://github.com/MateusSaantos">
-<img height="155em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MateusSaantos&layout=compact&langs_count=7&theme=dark"/>
-<img height="155em" src="https://github-readme-stats.vercel.app/api?username=MateusSaantos&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-</div>
