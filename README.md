@@ -23,5 +23,3 @@ Atualmente estou atuando no setor de treinamento a clientes nas diversas utilida
 <img height="155em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MateusSaantos&layout=compact&langs_count=7&theme=dark"/>
 <img height="155em" src="https://github-readme-stats.vercel.app/api?username=MateusSaantos&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
 </div>
-
-
